@@ -41,10 +41,10 @@
 
 ```yaml
 name: "Sapna Murhade"
-role: "Computer Engineering Student, Full-Stack MERN Developer"
-college: "Sardar Patel Institute of Technology (SPIT)"
+role: "Computer Engineering Student, Data Analyst"
+college: "Rajarshi Shahu College of Engineering (RSCE)"
 year: "Final Year"
-core_interests: ["Data Structures & Algorithms", "Artificial Intelligence & Machine Learning", "Full-Stack (MERN) Development"]
+core_interests: ["Data Science", "Artificial Intelligence & Machine Learning"]
 currently_exploring: "Deep Learning & System Design"
 philosophy: "Consistency > Intensity | Build. Break. Learn. Repeat."
 fun_fact: "Debugs better with a coffee in hand"
@@ -77,5 +77,53 @@ fun_fact: "Debugs better with a coffee in hand"
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
+
+<br/>
+
+## Current Focus
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Data Structures & Algorithms**
+
+![Optimization](https://img.shields.io/badge/-Optimization-6366F1?style=flat-square)
+![Complexity Analysis](https://img.shields.io/badge/-Complexity%20Analysis-6366F1?style=flat-square)
+![LeetCode](https://img.shields.io/badge/-LeetCode%20Practice-6366F1?style=flat-square)
+
+Solving problems daily to sharpen logical thinking and build strong problem-solving fundamentals.
+
+**AI / Machine Learning**
+
+![Supervised Learning](https://img.shields.io/badge/-Supervised%20Learning-8B5CF6?style=flat-square)
+![Unsupervised Learning](https://img.shields.io/badge/-Unsupervised%20Learning-8B5CF6?style=flat-square)
+![Applied Projects](https://img.shields.io/badge/-Applied%20Projects-8B5CF6?style=flat-square)
+
+Exploring how learning-based systems reason with incomplete information, through hands-on projects.
+
+</td>
+<td width="50%" valign="top">
+
+**Full-Stack Development (MERN)**
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-EC4899?style=flat-square)
+![Express.js](https://img.shields.io/badge/-Express.js-EC4899?style=flat-square)
+![React](https://img.shields.io/badge/-React-EC4899?style=flat-square)
+![Node.js](https://img.shields.io/badge/-Node.js-EC4899?style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-EC4899?style=flat-square)
+
+Building and shipping complete web applications end-to-end across the MERN stack, from database to UI.
+
+**Long-Term Goals**
+
+![Open Source](https://img.shields.io/badge/-Open%20Source-22C55E?style=flat-square)
+![DSA + AI/ML Roles](https://img.shields.io/badge/-DSA%20%2B%20AI%2FML%20Roles-22C55E?style=flat-square)
+
+Aiming to contribute to meaningful open-source work and take on a role where DSA and AI/ML meet.
+
+</td>
+</tr>
+</table>
 
 <br/>
