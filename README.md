@@ -7,7 +7,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Final-Year+CSE+Student+%40+SGBAU;Full-Stack+MERN+Developer;DSA+%26+Problem+Solving+Enthusiast;AI%2FML+Explorer;Always+Learning%2C+Always+Building.&font=Fira%20Code&center=true&width=650&height=50&duration=3000&pause=1000&color=8B5CF6&vCenter=true&size=22&weight=600" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Final-Year+CSE+Student+%40+SGBAU;Data Analyst;DSA+%26+Problem+Solving+Enthusiast;AI%2FML+Explorer;Always+Learning%2C+Always+Building.&font=Fira%20Code&center=true&width=650&height=50&duration=3000&pause=1000&color=8B5CF6&vCenter=true&size=22&weight=600" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -33,7 +33,7 @@
 
 ## What Drives Me
 
-> *"I believe in writing code that doesn't just work — but code that solves real problems, scales gracefully, and makes someone's life a little easier. I believe consistency beats intensity, that every bug is a lesson in disguise, and that the best engineers never stop being students. DSA sharpens the way I think, AI/ML fuels my curiosity about the future, and every project I build is a step closer to creating something that truly matters."*
+> *"Data Analyst with a proven track record in various analytical roles, showcasing expertise in end-to-end business processes. Proficient in SQL, Python, Google Sheets, Microsoft Excel, Statistics, Tableau, and Google Looker Studio for comprehensive data analysis and visualization. Comfortable with end-to-end data analysis, data processing, dashboard / daily reporting creation, and presenting actionable insights with effective communication and engaging story-telling skills."*
 
 <br/>
 
