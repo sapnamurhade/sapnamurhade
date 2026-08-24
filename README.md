@@ -65,6 +65,7 @@ fun_fact: "Debugs better with a coffee in hand"
 ![Google Sheet](https://img.shields.io/badge/Google%20Sheet-1572B6?style=for-the-badge&logo=GoogleSheet&logoColor=white)
 ![Google BigQuery](https://img.shields.io/badge/Google%20BigQuery-20232A?style=for-the-badge&logo=GoogleBigQuery&logoColor=61DAFB)
 ![Visual Code Studio](https://img.shields.io/badge/Visual%20Code%20Studio-007ACC?style=for-the-badge&logo=VisualCodeStudio&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-E34F26?style=for-the-badge&logo=PowerBI&logoColor=white)
 
 ### Data Visualization Tools
 ![Tableau](https://img.shields.io/badge/Tableau-339933?style=for-the-badge&logo=Tableau&logoColor=white)
