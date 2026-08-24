@@ -19,18 +19,6 @@
 
 <br/>
 
-<div align="center">
-  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sapnamurhade/sapnamurhade/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sapnamurhade/sapnamurhade/output/github-contribution-grid-snake.svg">
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/sapnamurhade/sapnamurhade/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
-
-</div>
-
-<br/>
-
 ## What Drives Me
 
 > *"Data Analyst with a proven track record in various analytical roles, showcasing expertise in end-to-end business processes. Proficient in SQL, Python, Google Sheets, Microsoft Excel, Statistics, Tableau, and Google Looker Studio for comprehensive data analysis and visualization. Comfortable with end-to-end data analysis, data processing, dashboard / daily reporting creation, and presenting actionable insights with effective communication and engaging story-telling skills."*
