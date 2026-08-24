@@ -61,21 +61,26 @@ fun_fact: "Debugs better with a coffee in hand"
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Data Analytics Tools
-![MS Excel](https://img.shields.io/badge/MS%20Excel-E34F26?style=for-the-badge&logo=MSExcel&logoColor=white)
-![Google Sheet](https://img.shields.io/badge/Google%20Sheet-1572B6?style=for-the-badge&logo=GoogleSheet&logoColor=white)
-![Google BigQuery](https://img.shields.io/badge/Google%20BigQuery-20232A?style=for-the-badge&logo=GoogleBigQuery&logoColor=61DAFB)
-![Visual Code Studio](https://img.shields.io/badge/Visual%20Code%20Studio-007ACC?style=for-the-badge&logo=VisualCodeStudio&logoColor=white)
+![MS Excel](https://img.shields.io/badge/MS%20Excel-E34F26?style=for-the-badge&logo=msexcel&logoColor=white)
+![Google Sheet](https://img.shields.io/badge/Google%20Sheet-1572B6?style=for-the-badge&logo=googlesheet&logoColor=white)
+![Google BigQuery](https://img.shields.io/badge/Google%20BigQuery-20232A?style=for-the-badge&logo=googlebigQuery&logoColor=61DAFB)
+![Visual Code Studio](https://img.shields.io/badge/Visual%20Code%20Studio-007ACC?style=for-the-badge&logo=visualcodestudio&logoColor=white)
 
 ### Data Visualization Tools
-![Tableau](https://img.shields.io/badge/Tableau-339933?style=for-the-badge&logo=Tableau&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-000000?style=for-the-badge&logo=LookerStudio&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-E34F26?style=for-the-badge&logo=PowerBI&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-339933?style=for-the-badge&logo=tableau&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-000000?style=for-the-badge&logo=lookerstudio&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-E34F26?style=for-the-badge&logo=powerbi&logoColor=white)
 
 ### Data Analytic Methods
-![EDA](https://img.shields.io/badge/EDA-4479A1?style=for-the-badge&logo=EDA&logoColor=white)
-![Segmentation / Clustering](https://img.shields.io/badge/Segmentation%20/%20Clustering-47A248?style=for-the-badge&logo=Segmentation/Clustering&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![EDA](https://img.shields.io/badge/EDA-4479A1?style=for-the-badge&logo=eda&logoColor=white)
+![Segmentation / Clustering](https://img.shields.io/badge/Segmentation%20/%20Clustering-47A248?style=for-the-badge&logo=segmentation/clustering&logoColor=white)
+![Cohort](https://img.shields.io/badge/Cohort-F05032?style=for-the-badge&logo=cohort&logoColor=white)
+![Linear Regression](https://img.shields.io/badge/Linear%20Regression-181717?style=for-the-badge&logo=linearregression&logoColor=white)
+![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-181717?style=for-the-badge&logo=logisticregression&logoColor=white)
+![Statistic](https://img.shields.io/badge/Statistic-4479A1?style=for-the-badge&logo=statistic&logoColor=white)
+![A/B Testing](https://img.shields.io/badge/A/B%20Testing-47A248?style=for-the-badge&logo=a/btesting&logoColor=white)
+![EDA](https://img.shields.io/badge/EDA-4479A1?style=for-the-badge&logo=eda&logoColor=white)
+![EDA](https://img.shields.io/badge/EDA-4479A1?style=for-the-badge&logo=eda&logoColor=white)
 
 </div>
 
