@@ -112,10 +112,114 @@ Building and shipping complete web applications end-to-end across the MERN stack
 ![Open Source](https://img.shields.io/badge/-Open%20Source-22C55E?style=flat-square)
 ![DSA + AI/ML Roles](https://img.shields.io/badge/-Data%20Science%20%2B%20AI%2FML%20Roles-22C55E?style=flat-square)
 
-Aiming to contribute to meaningful open-source work and take on a role where DSA and AI/ML meet.
+Aiming to contribute to meaningful open-source work and take on a role where Data Science and AI/ML meet.
 
 </td>
 </tr>
 </table>
 
 <br/>
+## Projects
+
+New projects are added here as they're completed — this section grows over time. Full history always available in [repositories](https://github.com/arnavKolhe27?tab=repositories).
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+![Rotary Club Project](https://img.shields.io/badge/Rotary%20Club%20of%20Amravati%20Ambika-6366F1?style=for-the-badge)
+
+![Status](https://img.shields.io/badge/status-live%20in%20production-22C55E?style=flat-square)
+
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+Official website for the Rotary Club of Amravati Ambika, built and adopted as the club's live digital platform. Covers leadership pages, past presidents, community project showcases, and a donation flow, with an admin portal for content management. Built with Next.js for performance and SEO, deployed on Vercel.
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-22C55E?style=flat-square&logo=vercel&logoColor=white)](https://rotary-website01.vercel.app)
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/arnavKolhe27/rotary-website)
+
+</td>
+<td width="50%" valign="top">
+
+![DefaultShield](https://img.shields.io/badge/DefaultShield-6366F1?style=for-the-badge)
+
+![Status](https://img.shields.io/badge/status-completed-22C55E?style=flat-square)
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![LightGBM](https://img.shields.io/badge/-LightGBM-black?style=flat-square)
+![MongoDB](https://img.shields.io/badge/-MongoDB%20Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+A real-time credit default risk engine for e-commerce checkout, built as a FastAPI gateway. Uses a 5-fold LightGBM ensemble for consensus risk scoring, Pydantic validation with hard age-gating, fallback medians for missing applicant data, and asynchronous MongoDB Atlas logging for a non-blocking audit trail.
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/arnavKolhe27/defaultshield-credit-risk-api)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## GitHub Analytics
+
+<div align="center">
+
+<table>
+<tr>
+<td width="62%" valign="top">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=arnavKolhe27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="100%"/>
+</td>
+<td width="38%" valign="top">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arnavKolhe27&layout=compact&theme=tokyonight&hide_border=true&hide=typescript" width="100%"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arnavKolhe27&theme=tokyonight&hide_border=true" width="100%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arnavKolhe27&theme=tokyo-night&hide_border=true" width="100%"/>
+
+</div>
+
+<br/>
+
+## GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy-1.vercel.app/?username=arnavKolhe27&theme=tokyonight&no-frame=true&title=Commits,Stars&column=2&margin-w=25&margin-h=15" width="45%" alt="GitHub Trophies" />
+
+<br/>
+
+<sub>More trophies unlock automatically as followers, pull requests, and repositories grow — shown once they have real rank.</sub>
+
+</div>
+
+<br/>
+
+## Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnavkolhe27/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnavk122006@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Arnav_27_/)
+
+<br/>
+
+### "Code is like humor. When you have to explain it, it's bad." — Cory House
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=120&section=footer" width="100%"/>
+
+**From Arnav Kolhe — thanks for stopping by.**
+
+</div>
