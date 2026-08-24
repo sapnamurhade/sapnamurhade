@@ -57,7 +57,7 @@ fun_fact: "Debugs better with a coffee in hand"
 <div align="center">
 
 ### Programming Languages
-![SQL](https://img.shields.io/badge/SQL-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-ED8B00?style=for-the-badge&logo=sql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
