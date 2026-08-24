@@ -8,3 +8,9 @@
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Final-Year+CSE+Student+%40+SGBAU;Data+Analyst;AI%2FML+Explorer;Finding+insights+through+data.&font=Fira%20Code&center=true&width=650&height=50&duration=3000&pause=1000&color=8B5CF6&vCenter=true&size=22&weight=600" alt="Typing SVG" />
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=sapnamurhade&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/sapnamurhade?style=for-the-badge&color=6366F1&labelColor=black)
+![GitHub Stars](https://img.shields.io/github/stars/sapnamurhade?style=for-the-badge&color=EC4899&labelColor=black)
