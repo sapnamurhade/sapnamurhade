@@ -11,9 +11,9 @@
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=arnavKolhe27&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/arnavKolhe27?style=for-the-badge&color=6366F1&labelColor=black)
-![GitHub Stars](https://img.shields.io/github/stars/arnavKolhe27?style=for-the-badge&color=EC4899&labelColor=black)
+![Profile Views](https://komarev.com/ghpvc/?username=sapnamurhade&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/sapnamurhade?style=for-the-badge&color=6366F1&labelColor=black)
+![GitHub Stars](https://img.shields.io/github/stars/sapnamurhade?style=for-the-badge&color=EC4899&labelColor=black)
 
 </div>
 
@@ -22,9 +22,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arnavKolhe27/arnavKolhe27/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arnavKolhe27/arnavKolhe27/output/github-contribution-grid-snake.svg">
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/arnavKolhe27/arnavKolhe27/output/github-contribution-grid-snake.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sapnamurhade/sapnamurhade/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sapnamurhade/sapnamurhade/output/github-contribution-grid-snake.svg">
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/sapnamurhade/sapnamurhade/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 
 </div>
@@ -40,10 +40,11 @@
 ## About Me
 
 ```yaml
-name: "Arnav Kolhe"
-role: "Computer Science & Engineering Student, Full-Stack MERN Developer"
-college: "Sardar Patel Institute of Technology (SPIT)"
-year: "3rd Year"
+name: "Sapna Murhade"
+role: "Computer Engineering Student, Full-Stack MERN Developer"
+college: "Rajarshi Shahu College of Engineering (RSCE)"
+university: "Sant Gadge Baba Amravati University (SGBAU)"
+year: "Final Year"
 core_interests: ["Data Structures & Algorithms", "Artificial Intelligence & Machine Learning", "Full-Stack (MERN) Development"]
 currently_exploring: "Deep Learning & System Design"
 philosophy: "Consistency > Intensity | Build. Break. Learn. Repeat."
