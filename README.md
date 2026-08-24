@@ -61,7 +61,7 @@ fun_fact: "Debugs better with a coffee in hand"
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Data Analytics Tools
-![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![MS Excel](https://img.shields.io/badge/MS%20Excel-E34F26?style=for-the-badge&logo=MSExcel&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
