@@ -62,8 +62,8 @@ fun_fact: "Debugs better with a coffee in hand"
 
 ### Data Analytics Tools
 ![MS Excel](https://img.shields.io/badge/MS%20Excel-E34F26?style=for-the-badge&logo=MSExcel&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Google Sheet](https://img.shields.io/badge/Google%20Sheet-1572B6?style=for-the-badge&logo=GoogleSheet&logoColor=white)
+![Google BigQuery](https://img.shields.io/badge/Google%20BigQuery-20232A?style=for-the-badge&logo=GoogleBigQuery&logoColor=61DAFB)
 
 ### Data Visualization Tools
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
