@@ -214,8 +214,7 @@ A real-time credit default risk engine for e-commerce checkout, built as a FastA
 
 <br/>
 
-### "Code is like humor. When you have to explain it, it's bad." — Cory House
-
+### "Let’s connect and work together! 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=120&section=footer" width="100%"/>
