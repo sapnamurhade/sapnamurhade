@@ -118,7 +118,7 @@ Building and shipping complete web applications end-to-end across the MERN stack
 **Long-Term Goals**
 
 ![Open Source](https://img.shields.io/badge/-Open%20Source-22C55E?style=flat-square)
-![DSA + AI/ML Roles](https://img.shields.io/badge/-DSA%20%2B%20AI%2FML%20Roles-22C55E?style=flat-square)
+![DSA + AI/ML Roles](https://img.shields.io/badge/-D%20SA%20%2B%20AI%2FML%20Roles-22C55E?style=flat-square)
 
 Aiming to contribute to meaningful open-source work and take on a role where DSA and AI/ML meet.
 
