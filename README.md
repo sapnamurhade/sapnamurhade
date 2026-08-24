@@ -173,7 +173,7 @@ A real-time credit default risk engine for e-commerce checkout, built as a FastA
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sapnamurhade&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="100%"/>
 </td>
 <td width="38%" valign="top">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sapnamurhade&layout=compact&theme=tokyonight&hide_border=true&hide=typescript" width="100%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/username=sapnamurhade&layout=compact&theme=tokyonight&hide_border=true&hide=typescript" width="100%"/>
 </td>
 </tr>
 </table>
