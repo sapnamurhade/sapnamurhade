@@ -30,3 +30,24 @@
 </div>
 
 <br/>
+
+## What Drives Me
+
+> *"Data Analyst with a proven track record in various analytical roles, showcasing expertise in end-to-end business processes. Proficient in SQL, Python, Google Sheets, Microsoft Excel, Statistics, Tableau, and Google Looker Studio for comprehensive data analysis and visualization. Comfortable with end-to-end data analysis, data processing, dashboard / daily reporting creation, and presenting actionable insights with effective communication and engaging story-telling skills."*
+
+<br/>
+
+## About Me
+
+```yaml
+name: "Sapna Murhade"
+role: "Computer Engineering Student, Full-Stack MERN Developer"
+college: "Sardar Patel Institute of Technology (SPIT)"
+year: "Final Year"
+core_interests: ["Data Structures & Algorithms", "Artificial Intelligence & Machine Learning", "Full-Stack (MERN) Development"]
+currently_exploring: "Deep Learning & System Design"
+philosophy: "Consistency > Intensity | Build. Break. Learn. Repeat."
+fun_fact: "Debugs better with a coffee in hand"
+```
+
+<br/>
