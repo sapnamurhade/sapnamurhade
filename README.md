@@ -180,7 +180,7 @@ A real-time credit default risk engine for e-commerce checkout, built as a FastA
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arnavKolhe27&theme=tokyonight&hide_border=true" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sapnamurhade&theme=tokyonight&hide_border=true" width="100%"/>
 
 <br/><br/>
 
