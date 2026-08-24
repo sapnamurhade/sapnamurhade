@@ -65,15 +65,15 @@ fun_fact: "Debugs better with a coffee in hand"
 ![Google Sheet](https://img.shields.io/badge/Google%20Sheet-1572B6?style=for-the-badge&logo=GoogleSheet&logoColor=white)
 ![Google BigQuery](https://img.shields.io/badge/Google%20BigQuery-20232A?style=for-the-badge&logo=GoogleBigQuery&logoColor=61DAFB)
 ![Visual Code Studio](https://img.shields.io/badge/Visual%20Code%20Studio-007ACC?style=for-the-badge&logo=VisualCodeStudio&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-E34F26?style=for-the-badge&logo=PowerBI&logoColor=white)
 
 ### Data Visualization Tools
 ![Tableau](https://img.shields.io/badge/Tableau-339933?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-000000?style=for-the-badge&logo=LookerStudio&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-E34F26?style=for-the-badge&logo=PowerBI&logoColor=white)
 
 ### Data Analytic Methods
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![EDA](https://img.shields.io/badge/EDA-4479A1?style=for-the-badge&logo=EDA&logoColor=white)
+![Segmentation / Clustering](https://img.shields.io/badge/Segmentation%20/%20Clustering-47A248?style=for-the-badge&logo=Segmentation/Clustering&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
