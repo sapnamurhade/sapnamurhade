@@ -184,7 +184,7 @@ A real-time credit default risk engine for e-commerce checkout, built as a FastA
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arnavKolhe27&theme=tokyo-night&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sapnamurhade&theme=tokyo-night&hide_border=true" width="100%"/>
 
 </div>
 
@@ -194,7 +194,7 @@ A real-time credit default risk engine for e-commerce checkout, built as a FastA
 
 <div align="center">
 
-<img src="https://github-profile-trophy-1.vercel.app/?username=arnavKolhe27&theme=tokyonight&no-frame=true&title=Commits,Stars&column=2&margin-w=25&margin-h=15" width="45%" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy-1.vercel.app/?username=sapnamurhade&theme=tokyonight&no-frame=true&title=Commits,Stars&column=2&margin-w=25&margin-h=15" width="45%" alt="GitHub Trophies" />
 
 <br/>
 
