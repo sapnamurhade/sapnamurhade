@@ -7,7 +7,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=3rd-Year+CSE+Student+%40+SPIT;Full-Stack+MERN+Developer;DSA+%26+Problem+Solving+Enthusiast;AI%2FML+Explorer;Always+Learning%2C+Always+Building.&font=Fira%20Code&center=true&width=650&height=50&duration=3000&pause=1000&color=8B5CF6&vCenter=true&size=22&weight=600" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Final-Year+CSE+Student+%40+SPIT;Full-Stack+MERN+Developer;DSA+%26+Problem+Solving+Enthusiast;AI%2FML+Explorer;Always+Learning%2C+Always+Building.&font=Fira%20Code&center=true&width=650&height=50&duration=3000&pause=1000&color=8B5CF6&vCenter=true&size=22&weight=600" alt="Typing SVG" />
 
 <br/><br/>
 
