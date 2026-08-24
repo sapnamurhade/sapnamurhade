@@ -79,8 +79,6 @@ fun_fact: "Debugs better with a coffee in hand"
 ![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-181717?style=for-the-badge&logo=logisticregression&logoColor=white)
 ![Statistic](https://img.shields.io/badge/Statistic-4479A1?style=for-the-badge&logo=statistic&logoColor=white)
 ![A/B Testing](https://img.shields.io/badge/A/B%20Testing-47A248?style=for-the-badge&logo=a/btesting&logoColor=white)
-![EDA](https://img.shields.io/badge/EDA-4479A1?style=for-the-badge&logo=eda&logoColor=white)
-![EDA](https://img.shields.io/badge/EDA-4479A1?style=for-the-badge&logo=eda&logoColor=white)
 
 </div>
 
