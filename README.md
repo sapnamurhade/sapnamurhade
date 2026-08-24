@@ -2,8 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=160" width="100%"/>
 
-<h1>Hi There, I am Arnav</h1>
-<p><b>Computer Science Engineer</b> &nbsp;|&nbsp; <b>Full-Stack MERN Developer</b> &nbsp;|&nbsp; <b>DSA &amp; AI/ML</b></p>
+<h1>Hi There, I am Sapna</h1>
+<p><b>Computer Engineer</b> &nbsp;|&nbsp; <b>Full-Stack MERN Developer</b> &nbsp;|&nbsp; <b>DSA &amp; AI/ML</b></p>
 
 <br/>
 
