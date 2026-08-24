@@ -121,7 +121,7 @@ Aiming to contribute to meaningful open-source work and take on a role where Dat
 <br/>
 ## Projects
 
-New projects are added here as they're completed — this section grows over time. Full history always available in [repositories](https://github.com/arnavKolhe27?tab=repositories).
+New projects are added here as they're completed — this section grows over time. Full history always available in [repositories](https://github.com/sapnamurhade?tab=repositories).
 
 <table>
 <tr>
@@ -170,10 +170,10 @@ A real-time credit default risk engine for e-commerce checkout, built as a FastA
 <table>
 <tr>
 <td width="62%" valign="top">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=arnavKolhe27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="100%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sapnamurhade&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="100%"/>
 </td>
 <td width="38%" valign="top">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arnavKolhe27&layout=compact&theme=tokyonight&hide_border=true&hide=typescript" width="100%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sapnamurhade&layout=compact&theme=tokyonight&hide_border=true&hide=typescript" width="100%"/>
 </td>
 </tr>
 </table>
@@ -208,9 +208,9 @@ A real-time credit default risk engine for e-commerce checkout, built as a FastA
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnavkolhe27/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnavk122006@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Arnav_27_/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sapnamurhade/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sapnamurhade@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sapnamurhade/)
 
 <br/>
 
@@ -220,6 +220,6 @@ A real-time credit default risk engine for e-commerce checkout, built as a FastA
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=120&section=footer" width="100%"/>
 
-**From Arnav Kolhe — thanks for stopping by.**
+**From Sapna Murhade — thanks for stopping by.**
 
 </div>
